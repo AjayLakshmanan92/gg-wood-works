@@ -1,9 +1,9 @@
 import Navbar from "./components/navbar";
-import Home from "./components/Home";
-import Services from "./components/Services";
-import Gallery from "./components/Gallery";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Home from "./components/home";
+import Services from "./components/services";
+import Gallery from "./components/gallery";
+import Contact from "./components/contact";
+import Footer from "./components/footer";
 import "./styles/main.css";
 import WhatsAppButton from "./components/WhatsAppButton";
 import WhyChooseUs from "./components/WhyChooseUs";
